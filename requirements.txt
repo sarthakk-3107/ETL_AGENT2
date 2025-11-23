@@ -1,0 +1,18 @@
+# ETL Agent System Requirements
+# Install with: pip install -r requirements.txt
+
+# Core dependencies
+pandas>=2.0.0
+numpy>=1.24.0
+openai>=1.0.0
+
+# For secure API key management
+python-dotenv>=1.0.0
+
+# Optional (for enhanced functionality)
+python-dateutil>=2.8.0
+pytz>=2023.3
+
+# Development tools (optional)
+ipython>=8.0.0
+jupyter>=1.0.0
