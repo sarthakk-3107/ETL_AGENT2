@@ -374,7 +374,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- **NVIDIA** for providing free API access to Nemotron models
+- **NVIDIA** for providing free API access 
 - **PostgreSQL** for the robust open-source database
 - **pandas** for powerful data manipulation
 - **psycopg2** for PostgreSQL connectivity
